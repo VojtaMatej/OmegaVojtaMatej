@@ -1,0 +1,11 @@
+timestamp,action,location,size_m2,input_price,predicted_price,price_category,evaluation
+2025-04-03 08:24:26,Predikce ceny,Praha,20.0,,1330310.0,,
+2025-04-03 08:33:08,Analýza,"17. listopadu, Chomutov",20.0,300000.0,2351073.25,0,Výrazně pod trhem
+2025-04-03 08:33:41,Analýza,"Astlova, Praha 5 - Smíchov",50.0,3000000.0,5159300.0,0,Výrazně pod trhem
+2025-04-03 08:33:57,Predikce ceny,"17. listopadu, Chomutov",399.0,,1.0,,
+2025-04-03 11:13:46,Analýza,"Bratislavská, Praha 10 - Hostivař",20.0,2000000.0,2351073.25,0,Mírně pod trhem
+2025-04-03 11:13:59,Predikce ceny,"17. listopadu, Louny",200.0,,3950000.5,,
+2025-04-03 13:06:31,Analýza,1. máje, Železná Ruda,20.0,200000.0,2351073.25,0,VÝRAZNĚ POD TRHEM 💰
+2025-04-04 10:38:38,Analýza,1. máje, Rožnov pod Radhoštěm,23.0,3444.0,2351073.25,0,VÝRAZNĚ POD TRHEM 💰
+2025-04-04 10:40:44,Predikce ceny,17. listopadu, Louny,3434434.0,None,1.0,None,None
+2025-04-04 10:40:49,Predikce ceny,17. listopadu, Louny,60.0,None,7048275.0,None,None
